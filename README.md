@@ -1,7 +1,9 @@
 # TestImportVideo
+
 Reproduce the Unity's issue 761548 (https://issuetracker.unity3d.com/issues/movietexture-fmod-error-when-trying-to-play-video-using-www-class)
 
-Hello,
+# Informations about the issue
+
 When i am trying to load a video with WWW("file://" + path)
 I'm getting the following errors:
 
